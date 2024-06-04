@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @faizbinyousuf
-- 👀 I’m interested in improving my coding skills
+- 👀 I’m interested in Mobile apps
 - 🌱 I’m currently working  as a Flutter Developer
 - 📫 Reach me at faizbinyousaf@gmail.com
 
