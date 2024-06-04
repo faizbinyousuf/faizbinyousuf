@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @faizbinyousuf
 - 👀 I’m interested in improving my coding skills
-- 🌱 I’m currently learning Flutter and Dart.
+- 🌱 I’m currently working  as a Flutter Developer
 - 📫 Reach me at faizbinyousaf@gmail.com
 
 <!---
