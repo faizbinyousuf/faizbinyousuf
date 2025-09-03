@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @faizbinyousuf
-- 👀 I’m interested in Mobile apps (Flutter, Kotlin - JetPack Compose)
+- 👀 I’m interested in Mobile apps (Flutter, Kotlin - JetPack Compose), Web Apps (React, TypeScript)
 - 🌱 I’m currently working  as a Flutter Developer
 - 📫 Reach me at faizbinyousaf@gmail.com
 
